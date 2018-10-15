@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FEEC0C31-A341-4F0F-874C-C6ECEA0771AB",
+  "do_objectID": "35C0C9E6-1DCA-486F-A4B1-0609897A5279",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,22 +20,29 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Primary/Default/Large",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A01E7C88-8738-4F3F-A2EC-44B8AB5D61F5"
+    },
+    {
+      "class": "text",
+      "id": "8A2E8A63-C7D2-4238-B7ED-05B129B356E0"
+    }
   ],
+  "name": "BTN",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,12 +51,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "63D304B2-AB4F-439B-B469-1F753294295C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+      },
+      "kViewTypeKey": ""
     }
-  },
-  "verticalSpacing": 0
+  }
 }

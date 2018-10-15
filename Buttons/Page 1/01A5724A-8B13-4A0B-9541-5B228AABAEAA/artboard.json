@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -47,8 +56,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "FEEC0C31-A341-4F0F-874C-C6ECEA0771AB"
+      "class": "group",
+      "id": "35C0C9E6-1DCA-486F-A4B1-0609897A5279"
     }
   ],
   "name": "PrimaryButton",
