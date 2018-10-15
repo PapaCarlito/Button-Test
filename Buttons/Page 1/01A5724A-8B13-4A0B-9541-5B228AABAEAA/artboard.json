@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 115,
-    "width": 295,
-    "x": 556,
-    "y": 301
+    "height": 48,
+    "width": 161,
+    "x": 548,
+    "y": 323
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,11 +44,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "F0BEB529-138B-4093-84C0-CFF6ABAC0420"
+      "class": "symbolInstance",
+      "id": "FEEC0C31-A341-4F0F-874C-C6ECEA0771AB"
     }
   ],
   "name": "PrimaryButton",
