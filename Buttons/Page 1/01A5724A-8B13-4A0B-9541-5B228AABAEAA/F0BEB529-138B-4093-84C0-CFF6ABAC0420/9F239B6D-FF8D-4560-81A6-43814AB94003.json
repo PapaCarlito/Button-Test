@@ -16,18 +16,48 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AmericanTypewriter",
-              "size": 36
+              "name": "AmericanTypewriter-Bold",
+              "size": 25
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 3,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 10,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AmericanTypewriter-Bold",
+              "size": 25
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 10
       }
     ],
     "string": "Button text"
@@ -49,12 +79,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 199,
-    "x": 48,
-    "y": 36
+    "height": 31,
+    "width": 222,
+    "x": 36,
+    "y": 42
   },
-  "glyphBounds": "{{0, 8}, {198, 26}}",
+  "glyphBounds": "{{0, 6}, {222, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,10 +117,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AmericanTypewriter",
-            "size": 36
+            "name": "AmericanTypewriter-Bold",
+            "size": 25
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 3,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
