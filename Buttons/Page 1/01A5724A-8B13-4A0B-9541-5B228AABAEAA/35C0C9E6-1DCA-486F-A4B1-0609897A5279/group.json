@@ -1,8 +1,8 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "F0BEB529-138B-4093-84C0-CFF6ABAC0420",
+  "do_objectID": "35C0C9E6-1DCA-486F-A4B1-0609897A5279",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 115,
-    "width": 295,
+    "height": 48,
+    "width": 161,
     "x": 0,
     "y": 0
   },
@@ -27,19 +27,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "0265ACCE-3E1B-485A-B473-251DBCEAF9AC"
+      "id": "A01E7C88-8738-4F3F-A2EC-44B8AB5D61F5"
     },
     {
       "class": "text",
-      "id": "9F239B6D-FF8D-4560-81A6-43814AB94003"
+      "id": "8A2E8A63-C7D2-4238-B7ED-05B129B356E0"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "BTN",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -54,7 +54,8 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+      },
+      "kViewTypeKey": ""
     }
   }
 }
